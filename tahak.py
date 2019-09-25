@@ -39,7 +39,7 @@ plne_pole = ['Pepa', 'Jana', 'Michal', 'Iveta'] # inicializace naplněného pole
 
 # Jelikož je pole seřazená struktura přistupuje se k jeho prvkům pomocí indexace(idex pozice). V pythonu se indexuje od 0. Tedy první prvek je 0
 plne_pole[0] # výsledek bude Pepa
-pole_pole[2] # výsledek bude Iveta
+plne_pole[3] # výsledek bude Iveta
 
 # Pole je dynamické a je možno do něj kdykoliv přidávat nové hodnoty. Pomocí funkce append, která nohou hodnotu přidá nakonec pole
 plne_pole.append('Olda')
@@ -58,7 +58,7 @@ plny_tuple = ('Pepa', 'Jana', 'Michal', 'Iveta') # inicializace naplněného tup
 
 # Jelikož je tuple seřazená struktura přistupuje se k jeho prvkům pomocí indexace(idex pozice). V pythonu se indexuje od 0. Tedy první prvek je 0
 plny_tuple[0] # výsledek bude Pepa
-plny_tuple[2] # výsledek bude Iveta
+plny_tuple[3] # výsledek bude Iveta
 
 # Pro vypsání konkretního počtu prvků z pole se používá operand :.
 plny_tuple[1:3] # Vypise vsechny prvky od 2 do 3 prvek
@@ -142,6 +142,7 @@ res = a % b   # Zbytek po dělení -> 1.2
 # TODO práce se strigem (operace, formátování, funkce(split,lower, upper, isdigit))
 # TODO práce se listem/tuplem (seřazení, revert)
 # TODO Ukázka zavořování listu a dictu
+# TODO podmínky
 
 # TODO while cyklus
 # TODO for cyklus

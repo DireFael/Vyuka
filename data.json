@@ -1,0 +1,32 @@
+{
+	"Bety":{
+		"pohlavi": "zena",
+		"vek": 18,
+		"stav": "pracujici"
+	},
+	"Toky":{
+		"pohlavi": "muz",
+		"vek": 19,
+		"stav": "nezamestnany"
+	},
+	"Martin":{
+		"pohlavi": "muz",
+		"vek": 16,
+		"stav": "student"
+	},
+	"Ascha":{
+		"pohlavi": "zena",
+		"vek": 18,
+		"stav": "student"
+	},
+	"Lucy":{
+		"pohlavi": "zena",
+		"vek": 20,
+		"stav": "student"
+	},
+	"Autak":{
+		"pohlavi": "muz",
+		"vek": 18,
+		"stav": "student"
+	}
+}
